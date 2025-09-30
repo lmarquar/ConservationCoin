@@ -6,6 +6,7 @@ Description:
 Pros:
   - based on real assets
   - good for nature
+
 Cons:
   - not all soil is equal, so in case of liqufication the customer might end up with a piece he ain't happy with
   - furthermore buying new soil has to be done carefully, with a good eye on value

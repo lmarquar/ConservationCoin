@@ -22,7 +22,8 @@ What to look out for:
     - Someone looking on Google Maps?
 
 Approach:
-  - It is most likely going to be build with 'Cosmos'
+  - It is most likely going to be build with 'Cosmos' or openzeppelin
   - Liquification:
       - 1: everyone gets land based on the value it was bought for
       - 2: all land gets sold and the money is getting distributed with coin-ownership/total-coin-amount%.
+  - there needs to be a google maps overlay which shows all the owned areas!

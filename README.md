@@ -10,11 +10,12 @@ Arguments:
   
   - Cons:
     - Liquification:
-      - not all soil is equal. the customer might end up with a piece he ain't happy with
       - you cannot distribute the land back to the holders in equal pieces because it's legal nightmare with small amounts.
     - furthermore buying new soil has to be done carefully, with a good eye on value
+    - legal bridge might be difficult
 
 What to look out for:
+  - selling everything might result in less than original price.
   - the Currency is expandable
   - how to handle someone wanting to trade soil in for coins. Who handles it. It cannot be done unsupervised.
   - figuring a good tool out to estimate protected zone area.

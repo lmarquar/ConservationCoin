@@ -1,6 +1,6 @@
 # ConservationCoin
 Description:
-  - 1 Coin = 1€ worth of soil at the point of buying.
+  - 1 Coin = 1m² of soil
   - it should be easily tradeble on the markets
 
 Arguments:
@@ -15,7 +15,9 @@ Arguments:
     - legal bridge might be difficult
 
 What to look out for:
+  - how will we handle transaction fees? probably by the fee going back into the company we can cover the cost.
   - selling everything might result in less than original price.
+  - value evaluation every now and then ? Mybe once a year throw out an estimate on total value. That way coin holders see which price is right.
   - the Currency is expandable
   - how to handle someone wanting to trade soil in for coins. Who handles it. It cannot be done unsupervised.
   - figuring a good tool out to estimate protected zone area.
@@ -29,3 +31,7 @@ Approach:
       - 1: everyone gets land based on the value it was bought for
       - 2: all land gets sold and the money is getting distributed with coin-ownership/total-coin-amount%.
   - there needs to be a google maps overlay which shows all the owned areas!
+
+Sources:
+  - Grok
+  - https://devpost.com/software/tree-foundation

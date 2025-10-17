@@ -10,8 +10,8 @@ Arguments:
   
   - Cons:
     - Liquification:
-      - you cannot distribute the land back to the holders in equal pieces because it's legal nightmare with small amounts.
-    - furthermore buying new soil has to be done carefully, with a good eye on value
+      - you cannot distribute the land back to the holders in equal pieces because it's legal nightmare with small amounts. So we would have to force-sell everything and distribute the money fairly to the coinholders.
+    - buying new soil has to be done carefully, with a good eye on value
     - legal bridge might be difficult
 
 What to look out for:

@@ -2,6 +2,8 @@
 Description:
   - 1 Coin = 1m² of soil
   - it should be easily tradeble on the markets, so probably ethereum blockchain is the way
+  - there needs to be a map with the area currently owned by conservation
+  - strict protocols on what is allowed in those areas: sustainable forestry, no hunting, no trashing, no fire, no buildings.
 
 Arguments:
   - Pros:

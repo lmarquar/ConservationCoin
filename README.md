@@ -1,7 +1,7 @@
 # ConservationCoin
 Description:
   - 1 Coin = 1m² of soil
-  - it should be easily tradeble on the markets
+  - it should be easily tradeble on the markets, so probably ethereum blockchain is the way
 
 Arguments:
   - Pros:
